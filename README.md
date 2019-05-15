@@ -1,1 +1,1 @@
-# node_meetap
+# Репозиторий для примеров Modulbank JS meetup
